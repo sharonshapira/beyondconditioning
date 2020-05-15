@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  color: black;
+  background-color: #dae1e7;
+  font-family: Montserrat, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 100px;
+  font-family: Cinzel, serif;
+}
+
+h2 {
+   padding-top: 50px;
+}
+
+.navbar-brand {
+  font-family: Cinzel, serif;
+}
+
+.nav-bar-color {
+  background-color: #512b58;
+}
+
+.container-fluid {
+  width: 70%;
+
+}
+
+.main-text {
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+#footer {
+  padding-top: 5rem;
+}
